@@ -1,4 +1,4 @@
-# Security Log Analyzer (Python)
+# Intelligent Log Threat Analyzer
 
 A lightweight security log analysis tool written in Python that detects suspicious activities such as brute-force login attempts, SQL injection patterns, and access to sensitive endpoints.
 
@@ -161,4 +161,5 @@ Developed as a cybersecurity learning project to demonstrate practical defensive
 ## License
 
 Educational use only.
+
 Use responsibly in authorized environments.
